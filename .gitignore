@@ -1,0 +1,31 @@
+# Datasets
+data/
+datasets/
+*.csv
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+.env
+
+# Credentials / cloud
+*.json
+credentials/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
