@@ -1,0 +1,15 @@
+torch
+torchvision
+pytorch-lightning
+numpy
+pandas
+pillow
+matplotlib
+scikit-learn
+opencv-python
+seaborn
+umap-learn
+google-cloud-storage
+boto3
+tqdm
+jupyter
